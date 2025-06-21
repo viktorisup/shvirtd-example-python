@@ -1,11 +1,11 @@
 ## Задача 1
 Выполнена
 ## Задача 3
-![скриншот на yadisk'e](https://disk.yandex.ru/i/JIQDCLNTFHWLhw)
+![скриншот задания 3](screenshots/task3.png)
 ## Задача 4
-![скриншот на yadisk'e](https://disk.yandex.ru/i/58Sb-M_sXm0xvA)
+![скриншот задания 4](screenshots/task4.png)
 ## Задание 6
-![скриншот на yadisk'e](https://disk.yandex.ru/i/7RlDiE_xhoqRdQ)
-![скриншот2 на yadisk'e](https://disk.yandex.ru/i/dbYj1wNTMAuCEg)
+![скриншот задания 6](screenshots/task6-1.png)
+![скриншот задания 6](screenshots/task6-2.png)
 ## Задание 6.1
-![скриншот2 на yadisk'e](https://disk.yandex.ru/i/dHwyPHPS6u5H5w)
+![скриншот задания 6.1](screenshots/task6.1.png)
